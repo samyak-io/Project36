@@ -7,7 +7,7 @@ var gameState,readState;
 
 function preload(){
 sadDog=loadImage("images/Dog.png");
-happyDog=loadImage("images/happy dog.png");
+happyDog=loadImage("images/Happy.png");
 garden=loadImage("images/Garden.png");
 washroom=loadImage("images/Wash Room.png");
 bedroom=loadImage("images/Bed Room.png");
